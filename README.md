@@ -1,4 +1,5 @@
-### Hi! I'm Milagros Seclen, 
+### Hi! I'm Milagros Seclen
+---
 - ⚡Data Engineer and DevOps Specialist based in Vancouver, Canada.
 - 🤔I'm interested in improving the data engineering lifecycle and enhancing all the undercurrents: Orchestration, DevOps/DataOps, Security, Data management, Data architecture, and Software Engineering. 
 - 🧙‍♀️🔮 I'm currently exploring AI and machine learning to enhance my skills in these subjects
