@@ -4,7 +4,7 @@
 - 🤔I'm interested in improving the data engineering lifecycle and enhancing all the undercurrents: Orchestration, DevOps/DataOps, Security, Data management, Data architecture, and Software Engineering. 
 - 🧙‍♀️🔮 I'm currently exploring AI and machine learning to enhance my skills in these subjects
 
-### Skills
+## My Skills
 ---
 - **Data Engineering:** Designing and implementing scalable data architectures, ETL/ELT processes, and data warehouses. Proficient in Python, SQL, Spark, and Airflow.
 
