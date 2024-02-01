@@ -8,7 +8,7 @@
 ---
 - **Data Engineering:** Designing and implementing scalable data architectures, ETL/ELT processes, and data warehouses. Proficient in Python, SQL, Spark, and Airflow.
 
-- **DevOps:** Orchestrating CI/CD pipelines, infrastructure as code (IaC) using tools like Jenkins and Ansible. Ensuring the reliability, security, and scalability of applications.
+- **DevOps:** Orchestrating CI/CD pipelines, infrastructure as code (IaC) using tools like Jenkins, Ansible and Terraform. Ensuring the reliability, security, and scalability of applications.
 
 ### Let's Connect!
 ---
