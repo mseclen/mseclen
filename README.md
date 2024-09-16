@@ -14,6 +14,5 @@
 ---
 
 - LinkedIn: [Milagros Seclen](https://www.linkedin.com/in/mseclenc/)
-- Medium: [My Tech Insights](https://medium.com/@milagros.seclen)
 
 Feel free to reach out if you share similar interests, or if you have exciting opportunities for collaboration!
