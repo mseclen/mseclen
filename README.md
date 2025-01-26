@@ -6,7 +6,7 @@
 
 ### My Skills
 ---
-- **DevOps:** Orchestrating CI/CD pipelines, infrastructure as code (IaC) using tools like Jenkins, Ansible and Terraform. Ensuring the reliability, security, and scalability of applications.
+- **DevOps:** Managing CI/CD pipelines and implementing Infrastructure as Code (IaC) using tools such as Terraform and Ansible. Expertise in Kubernetes and containerization, with a focus on ensuring application reliability, security, and scalability.
 
 ### Let's Connect!
 ---
